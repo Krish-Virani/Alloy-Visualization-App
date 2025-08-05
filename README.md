@@ -2,6 +2,8 @@
 
 A full-stack Android application that allows customers to visualize alloy wheels on their car by uploading an image and selecting compatible designs. Dealers can upload alloy designs and manage their stock. The app leverages ML for alloy overlay and includes role-based access, real-time data from MongoDb, Amazon S3 and Spring Boot as the backend.
 
+Now available on Google Play (Closed Testing)
+
 ---
 
 ## 📱 Features
