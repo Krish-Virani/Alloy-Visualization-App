@@ -69,12 +69,10 @@ Now available on Google Play (Closed Testing)
   <img src="https://github.com/user-attachments/assets/cc02f2ea-b13d-4f11-9585-b101dfa1f0a2" alt="Screen 2" width="250"/>
   <img src="https://github.com/user-attachments/assets/d522ef95-69b5-4082-9ee2-de6d006e2459" alt="Screen 3" width="250"/>
   <img src="https://github.com/user-attachments/assets/6b4c110a-a865-4d43-9fac-ec2181ceb2ab" alt="Screen 4" width="250"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/b2563f0e-3a69-40cb-be38-dd296688210e" alt="Screen 5" width="250"/>
   <img src="https://github.com/user-attachments/assets/aa0cf498-8e21-4c94-b82c-5c461dc8c176" alt="Screen 6" width="250"/>
   <img src="https://github.com/user-attachments/assets/3bb03393-f416-4efd-801b-3fbb8e5b577d" alt="Screen 7" width="250"/>
 </p>
+
 
 
